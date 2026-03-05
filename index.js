@@ -10,15 +10,20 @@ app.get("/", (req, res)=>{
                 employee_name: "Sanchita",
                 employee_salary: 7000000,
             },
-                        {
+            {
                 id: 2,
                 employee_name: "John",
                 employee_salary: 600000,
             },
-                        {
+            {
                 id: 3,
                 employee_name: "Ruby",
                 employee_salary: 800000,
+            },
+            {
+                id: 4,
+                employee_name: "Virat",
+                employee_salary: 1500000,
             },
         ]
     )
