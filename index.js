@@ -18,7 +18,7 @@ app.get("/", (req, res)=>{
             {
                 id: 3,
                 employee_name: "Ruby",
-                employee_salary: 800000,
+                employee_salary: 80000,
             },
             {
                 id: 4,
